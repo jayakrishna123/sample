@@ -1,0 +1,20 @@
+h1{
+    font-size: 100px;
+    background-color: rgb(44, 123, 202);
+    text-align: center; 
+
+}
+img{
+    height: 900;
+    width: 900;
+
+}
+
+p{
+    size: 30;
+}
+nav{
+    display: inline;
+    background-color:  ;
+    
+}
